@@ -1,0 +1,7 @@
+LAPORAN NILAI MATEMATIKA
+=======================
+Jumlah siswa: 5
+Rata-rata: 71.60
+Nilai minimum: 45.0
+Nilai maksimum: 90.0
+Jumlah tuntas: 4

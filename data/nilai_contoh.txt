@@ -4,3 +4,5 @@ A002,Budi,78
 A003,Citra,90
 A004,Deni,60
 A005,Eka,45
+A006,Fajar,abc
+A007,Gina,120
